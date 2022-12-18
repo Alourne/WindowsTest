@@ -1,0 +1,1 @@
+Testing this on windows instead of Linux cause it hurts my head with the 60hz on a VM
